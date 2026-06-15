@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/lelextb"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B81&color=181717"></a>
   <a href="https://discord.com/users/lelextb"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF6B81&color=5865F2"></a>
-  <a href="mailto:lelextb@wakrod.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B81&color=D14836"></a>
+  <a href="mailto:lelexthbest@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B81&color=D14836"></a>
 </p>
 
 <p align="center">
