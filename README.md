@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lelextb&label=Profile%20Views&color=FF6B81&style=flat-square">
-  <img src="https://img.shields.io/github/followers/lelextb?label=Followers&style=flat-square&color=FF6B81">
   <img src="https://img.shields.io/github/stars/lelextb?label=Total%20Stars&style=flat-square&color=FF6B81">
 </p>
 
