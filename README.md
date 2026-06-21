@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,7,11,14,17,20,25,28,33,36,41,45,50,55&height=180&section=header&text=Alex Wakrod&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,7,11,14,17,20,25,28,33,36,41,45,50,55&height=180&section=header&text=Alex+Wakrod&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%">
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@
 
 ## 📬 **Let's Connect**
 
-- 📧 **Email:** [lelexthbest@gmail.com](mailto:lelexthbest@gmail.com)
+- 📧 **Email:** [alexwakrod@gmail.com](mailto:lelexthbest@gmail.com)
 - 💬 **Discord:** `alexwakrod`
 - 🐙 **GitHub:** [github.com/alexwakrod](https://github.com/alexwakrod)
 
